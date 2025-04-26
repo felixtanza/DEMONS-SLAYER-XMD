@@ -29,7 +29,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 🫨",
       "required": false,
-      "value": "🫨"
+      "value": "💚"
       },
     "AUTO_REACT": {
       "description": "make it true if you want a bot to react on messages",
@@ -64,7 +64,7 @@
     "AUTO_BIO": {
       "description": "make it true if you want the bot to update de bio after restart",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
@@ -79,7 +79,7 @@
     "WELCOME": {
       "description": "make it true if you want to enable auto welcome",
       "required": false,
-      "value": "" 
+      "value": "true" 
       },
     "ANTILINK": {
       "description": "make it true if you want to enable auto delete links",
